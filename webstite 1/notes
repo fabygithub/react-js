@@ -4,3 +4,44 @@ https://www.youtube.com/watch?v=I2UBjN5ER4s&ab_channel=BrianDesign
 
 
 create react project
+
+npx create-react-app react-website-yt-1
+
+cd\Users\USUARIO\Desktop\fabi\react
+
+need the following packages
+
+create-react-app
+y
+
+cd react-website-yt-1
+
+code .
+
+visual studio open folder
+
+new terminal
+
+terminal 
+1 node
+
+brian (master) react-website-yt-1
+
+yarn start
+
+power shell
+CommandNotFoundException
+
+yarn: command not found
+
+If you are using Mintty (Bash) then you simply do npm install -g yarn
+
+http://localhost:3000/
+
+
+
+
+
+
+
+
