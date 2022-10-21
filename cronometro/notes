@@ -1,0 +1,52 @@
+https://www.youtube.com/watch?v=Vdyp9305ohw&ab_channel=ProgramadorT%C3%B3xico
+
+npx create-react-app cronometro
+cd cronometro
+npm start
+
+import{useEffect,useState}from "react";
+import "./App.css";
+
+function app(){
+ const [diff, setDiff] = useState{null}
+ 
+ const tick = {} =>{
+  setDiff(new Date(+new Date()-initial))
+ };
+ 
+ const start = {} => { setInitial{+new Date())}
+ 
+ useEffect(() => {
+  if(initial){
+  requestAnimationFrame(tick);
+   }
+  },[initial]};
+  
+  useEffect(() => {
+   if(diff){
+     requestAnimationFrame(tick);
+   },[diff]};
+   
+   return{
+   <div className="App" onClick={start}>
+     <h1 className="timer">{timeFormat(diff)}</h1>
+   </div>  
+   };
+   
+ }
+ 
+ const timeFormat = 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+
+}
+
+
