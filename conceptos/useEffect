@@ -1,0 +1,9 @@
+useEffect en React es un tipo de hook 
+que se incorporó en la versión de React 16.8. 
+Como su nombre indica, este hook nos permite definir efectos. 
+Los efectos en esta librería de JavaScript 
+nos permiten ejecutar un trozo de código 
+según el momento en el que se encuentre 
+el ciclo de vida de nuestro componente.
+
+
