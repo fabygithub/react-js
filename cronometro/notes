@@ -1,8 +1,17 @@
 https://www.youtube.com/watch?v=Vdyp9305ohw&ab_channel=ProgramadorT%C3%B3xico
 
+// npm cache clear --force - npm install si no se pudiera crear el projecto
+// npm start inicia el projecto
+Try clearing the cache and do a install again
+npm cache clear --force
+npm install
+
+
 npx create-react-app cronometro 
 cd cronometro
 npm start
+
+//modificar el index.js 
 
 import{useEffect,useState}from "react";
 import "./App.css";
