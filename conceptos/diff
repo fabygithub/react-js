@@ -1,0 +1,8 @@
+What is diff in React?
+The Diffing Algorithm. 
+When diffing two trees, 
+React first compares 
+the two root elements. 
+The behavior is different depending 
+on the types of the root elements.
+
