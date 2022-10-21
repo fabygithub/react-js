@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=Vdyp9305ohw&ab_channel=ProgramadorT%C3%B3xico
 
-npx create-react-app cronometro
+npx create-react-app cronometro 
 cd cronometro
 npm start
 
