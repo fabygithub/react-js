@@ -1,0 +1,9 @@
+Por ejemplo, useState es un Hook que te permite añadir el estado de React 
+a un componente de función. 
+Más adelante hablaremos sobre otros Hooks. 
+¿Cuándo debería usar un Hook? 
+Si creas un componente de función 
+y descubres que necesitas añadirle estado, 
+antes había que crear una clase.
+
+
