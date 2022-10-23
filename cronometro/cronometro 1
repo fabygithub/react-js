@@ -1,0 +1,23 @@
+https://www.youtube.com/watch?v=Vdyp9305ohw&ab_channel=ProgramadorT%C3%B3xico
+
+// puedes ver los procesos actuales netstat -ano | findstr :<PORT>
+//http://localhost:3000/
+//Javascript. Cómo funcionan las comillas invertidas (``)
+// npm cache clear --force - npm install si no se pudiera crear el projecto
+// npm start inicia el projecto
+// la pantalla de inicio seria app.js
+Try clearing the cache and do a install again
+npm cache clear --force
+npm install
+
+
+npx create-react-app cronometro 
+cd cronometro
+npm start
+
+//modificar el index.js 
+
+___________________________________________________________________________________________________________________________________
+
+
+
