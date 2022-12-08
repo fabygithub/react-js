@@ -9,22 +9,28 @@ npx create-react-app react-website-yt-1
 cd\Users\USUARIO\Desktop\fabi\react
 
 // se crea esta carpeta 
+// para abrir la carpera podria ser
+// git bash here
 cd react-website-yt-1
 
 //abre el visual estudio
 code .
 
-
 visual studio open folder
 
 new terminal
-
-terminal 
-1 node
-
 brian (master) react-website-yt-1
 
+// se ejecuta el comando
 yarn start
+
+despues que se termina 
+deberia comenzar el projecto local
+
+http://localhost:3000/
+
+
+
 
 power shell
 CommandNotFoundException
