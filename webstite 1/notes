@@ -2,21 +2,18 @@ https://www.youtube.com/watch?v=I2UBjN5ER4s&ab_channel=BrianDesign
 
 5
 
-
-create react project
-
+bash
+//create react project
 npx create-react-app react-website-yt-1
 
 cd\Users\USUARIO\Desktop\fabi\react
 
-need the following packages
-
-create-react-app
-y
-
+// se crea esta carpeta 
 cd react-website-yt-1
 
+//abre el visual estudio
 code .
+
 
 visual studio open folder
 
@@ -37,7 +34,6 @@ yarn: command not found
 If you are using Mintty (Bash) then you simply do npm install -g yarn
 
 http://localhost:3000/
-
 
 
 
