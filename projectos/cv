@@ -1,1 +1,21 @@
 Curriculum Vitae ReactJS - CodePen
+https://www.linkedin.com/pulse/how-make-deploy-your-own-online-resume-using-reactjs-simon-defrenet/
+
+npm install create-react-app
+Unknown command: "create-react-app"
+
+npx create-react-app my-cv
+npx start
+Happy hacking!
+
+err script
+puede ser un error en la carpeta
+
+buscar referencias en html para agregar a los componentes
+make a cv in html
+
+cambiar el css
+en app.css
+cambia tambien los componentes
+
+
