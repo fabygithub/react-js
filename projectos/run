@@ -1,0 +1,5 @@
+npm start
+
+Intenta eliminando la capeta “node_modules” y luego corre el comando “npm install”. 
+Tuve el mismo inconveniente y lo solucioné de esa manera. Saludos
+
